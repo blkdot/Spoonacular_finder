@@ -119,13 +119,3 @@ A responsive web application built with Next.js, TailwindCSS, and TypeScript for
 
 ---
 
-## Enhancements
-- Add user authentication to save favorite recipes.
-- Implement pagination for recipe results.
-- Allow users to filter recipes by dietary preferences.
-
----
-
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
