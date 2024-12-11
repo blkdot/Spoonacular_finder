@@ -41,7 +41,7 @@ A responsive web application built with Next.js, TailwindCSS, and TypeScript for
 1. Clone the repository:
    ```bash
    git clone https://github.com/blkdot/Spoonacular_finder.git
-   cd recipe-finder
+   cd Spoonacular_finder
    ```
 
 2. Install dependencies:
